@@ -1,0 +1,3 @@
+pytest
+requests  # If you plan to fetch logs from URLs (optional)
+lxml      # For advanced XML parsing (optional, stdlib xml.etree is used by default)
